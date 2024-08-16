@@ -159,6 +159,7 @@ The Code is written in Python 3.7. If you don't have Python installed you can fi
    4.	Standing
    5.	Sitting
    6.	Lying.
+ 
 -  Readings are divided into a window of 2.56 seconds with 50% overlapping.
 -  Accelerometer readings are divided into gravity acceleration and body acceleration readings, which has x,y and z components each.
 -  Gyroscope readings are the measure of angular velocities which has x,y and z components.
